@@ -1,6 +1,6 @@
 # 🧪 Isometric Labs
 
-At Isometric Labs, we are a custom **software development** company based in Spain. 
+At Isometric Labs, we are a bespoke software development company based in Spain.
 
 We specialize in designing and building tailor-made digital solutions that help businesses optimize their processes, enhance productivity, and accelerate innovation. 
 
