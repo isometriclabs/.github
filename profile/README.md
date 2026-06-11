@@ -1,4 +1,4 @@
-# 🟩 Isometric Labs
+# 🟪 Isometric Labs
 
 At Isometric Labs, we are a bespoke software development company based in Spain.
 
